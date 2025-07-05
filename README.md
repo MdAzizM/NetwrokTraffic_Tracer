@@ -25,6 +25,7 @@ This tool is perfect for network enthusiasts, cybersecurity learners, and anyone
 ---
 
 ## 📁 Project Structure
+
 NetwrokTraffic_tracer/
 ├── main.py
 ├── run_sniffer.sh
@@ -43,4 +44,5 @@ NetwrokTraffic_tracer/
 ## ⚙️ Usage
 
 ⚠️ You must run the script with sudo/root privileges to capture packets:
-' ' ' bash run_sniffer.sh ' ' ' 
+```bash
+bash run_sniffer.sh 
