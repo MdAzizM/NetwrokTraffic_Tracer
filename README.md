@@ -25,7 +25,7 @@ This tool is perfect for network enthusiasts, cybersecurity learners, and anyone
 ---
 
 ## 📁 Project Structure
-
+```bash
 NetwrokTraffic_tracer/
 ├── main.py
 ├── run_sniffer.sh
