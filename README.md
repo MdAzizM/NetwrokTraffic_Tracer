@@ -37,9 +37,10 @@ NetwrokTraffic_tracer/
 ├── logs.txt
 ├── requirements.txt
 └── README.md
+
 ---
 
 ## ⚙️ Usage
 
 ⚠️ You must run the script with sudo/root privileges to capture packets:
-''' bash run_sniffer.sh ''' 
+' ' ' bash run_sniffer.sh ' ' ' 
